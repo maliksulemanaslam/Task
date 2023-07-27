@@ -54,6 +54,7 @@ body {
 }
 img {
   height: 100px !important;
+  width: 100px !important;
   margin: 10px;
 }
 .logo {
